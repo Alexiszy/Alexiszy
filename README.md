@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alexiszy 👋</h1>
 
 <p align="center">
-  <em>大学生 · 正在学习 Java 与面向对象程序设计</em>
+  <em>研究生 · 正在学习 Java 与面向对象程序设计</em>
 </p>
 
 <p align="center">
