@@ -37,19 +37,6 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alexiszy&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexiszy&layout=compact&hide_border=true&theme=default" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexiszy&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
 ## Projects
 
 - **Coursework Labs**（私有仓库，持续更新）— Java 面向对象实验：可运行代码 + JUnit 5 测试 + 中文学习笔记
