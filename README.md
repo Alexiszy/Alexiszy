@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alexiszy 👋</h1>
 
 <p align="center">
-  <em>「在这里写一句话简介,例如:专注于 XXX 的 全栈开发者 / 学生 / 研究者」</em>
+  <em>大学生 · 正在学习 Java 与面向对象程序设计</em>
 </p>
 
 <p align="center">
@@ -14,10 +14,10 @@
 
 ## About Me
 
-- 🎯 **当前关注**:在此填写你正在学习或专注的方向
-- 🛠️ **正在做**:在此填写正在做的项目或工作
-- 🌱 **正在学**:在此填写你正在学习的新技术
-- 📫 **联系我**:`your.email@example.com`
+- 🎯 **当前关注**：面向对象程序设计（Java）与软件工程基础
+- 🛠️ **正在做**：把每周课程实验整理成「可运行、有测试、带笔记」的完整仓库
+- 🌱 **正在学**：Java、JUnit 5、Git 工作流
+- 📫 **联系我**：通过 GitHub（Issues / 私信）
 
 ---
 
@@ -25,21 +25,15 @@
 
 **Languages**
 
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-**Frameworks & Tools**
+**Tools**
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-> 根据自己的真实情况增减上面的徽章。更多徽章可在 https://simpleicons.org 查找。
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![JUnit 5](https://img.shields.io/badge/-JUnit%205-25A162?style=flat-square&logo=junit5&logoColor=white)
 
 ---
 
@@ -56,25 +50,16 @@
 
 ---
 
-## Featured Projects
+## Projects
 
-| 项目 | 简介 | 技术栈 |
-| --- | --- | --- |
-| [project-one](https://github.com/Alexiszy/project-one) | 一句话项目简介 | `Python` `FastAPI` |
-| [project-two](https://github.com/Alexiszy/project-two) | 一句话项目简介 | `React` `TypeScript` |
-| [project-three](https://github.com/Alexiszy/project-three) | 一句话项目简介 | `Go` `Docker` |
+- **Coursework Labs**（私有仓库，持续更新）— Java 面向对象实验：可运行代码 + JUnit 5 测试 + 中文学习笔记
 
 ---
 
 ## Contact
 
 <p>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/></a>
   <a href="https://github.com/Alexiszy"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="github"/></a>
-  <!-- 按需保留 / 删除以下徽章 -->
-  <a href="https://www.linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-  <a href="https://x.com/your-handle"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" alt="x"/></a>
-  <a href="https://your-blog.com"><img src="https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=hugo&logoColor=white" alt="blog"/></a>
 </p>
 
 <p align="center"><sub>Thanks for visiting! ⭐ Feel free to explore my repositories.</sub></p>
