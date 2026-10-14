@@ -1,9 +1,9 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=0969DA&center=true&vCenter=true&width=520&lines=Hi%2C+I%27m+Alexiszy+%F0%9F%91%8B;MSc+Computer+Science+%40+XJTLU;Java+%C2%B7+OOP+%C2%B7+NLP;Python+%C2%B7+C%2B%2B+%C2%B7+JAX+%2F+Flax" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=0969DA&center=true&vCenter=true&width=520&lines=Hi%2C+I%27m+Alexiszy+%F0%9F%91%8B;MRes+Computer+Science+%40+XJTLU;Java+%C2%B7+OOP+%C2%B7+NLP;Python+%C2%B7+C%2B%2B+%C2%B7+JAX+%2F+Flax" alt="Typing SVG" /></a>
 
 <p>
-  <em>MSc Computer Science @ XJTLU · 西交利物浦大学计算机科学硕士在读<br/>
+  <em>MRes Computer Science @ XJTLU · 西交利物浦大学计算机科学硕士在读<br/>
   Java &amp; OOP · NLP (JAX / Flax) · Python · C++</em>
 </p>
 
@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me · 关于我
 
-- 🎓 MSc Computer Science student at Xi'an Jiaotong-Liverpool University (XJTLU) · 西交利物浦大学计算机科学硕士在读
+- 🎓 MRes Computer Science student at Xi'an Jiaotong-Liverpool University (XJTLU) · 西交利物浦大学计算机科学硕士在读
 - 🛠️ I turn weekly coursework labs into **runnable, tested, well-noted** repositories · 把每周课程实验打磨成「可运行、有测试、带笔记」的完整仓库
 - 🌱 Currently learning: **Java & JUnit 5** · **JAX / Flax (NLP)** · Git workflows
 - 💬 Happy to talk about: OOP, Python, NLP basics
