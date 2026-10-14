@@ -1,15 +1,15 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=0969DA&center=true&vCenter=true&width=520&lines=Hi%2C+I%27m+Alexiszy+%F0%9F%91%8B;Software+Engineering+Student;Java+%C2%B7+OOP+%C2%B7+NLP;Python+%C2%B7+C%2B%2B+%C2%B7+JAX+%2F+Flax" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=0969DA&center=true&vCenter=true&width=520&lines=Hi%2C+I%27m+Alexiszy+%F0%9F%91%8B;MSc+Computer+Science+%40+XJTLU;Java+%C2%B7+OOP+%C2%B7+NLP;Python+%C2%B7+C%2B%2B+%C2%B7+JAX+%2F+Flax" alt="Typing SVG" /></a>
 
 <p>
-  <em>Software engineering student · 软件工程在读<br/>
+  <em>MSc Computer Science @ XJTLU · 西交利物浦大学计算机科学硕士在读<br/>
   Java &amp; OOP · NLP (JAX / Flax) · Python · C++</em>
 </p>
 
 <p>
   <a href="https://github.com/Alexiszy"><img src="https://img.shields.io/github/followers/Alexiszy?label=Followers&style=flat-square&color=0969da" alt="followers"/></a>
-  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-0969da?style=flat-square" alt="focus"/>
+  <img src="https://img.shields.io/badge/Focus-Computer%20Science-0969da?style=flat-square" alt="focus"/>
   <img src="https://komarev.com/ghpvc/?username=Alexiszy&label=Profile%20views&color=0969da&style=flat-square" alt="profile views"/>
 </p>
 
@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me · 关于我
 
-- 🎓 Software engineering student based in China · 软件工程在读学生
+- 🎓 MSc Computer Science student at Xi'an Jiaotong-Liverpool University (XJTLU) · 西交利物浦大学计算机科学硕士在读
 - 🛠️ I turn weekly coursework labs into **runnable, tested, well-noted** repositories · 把每周课程实验打磨成「可运行、有测试、带笔记」的完整仓库
 - 🌱 Currently learning: **Java & JUnit 5** · **JAX / Flax (NLP)** · Git workflows
 - 💬 Happy to talk about: OOP, Python, NLP basics
